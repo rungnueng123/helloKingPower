@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KingPower</string>
+    <string name="no_internet_msg">Internet connection is required</string>
+</resources>
